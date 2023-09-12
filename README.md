@@ -14,6 +14,7 @@
 * Custom Font
 * Reanimated
 * Youtube iFrame
+* Cached Image
 * Secure Store
 
 ## Bilgisayarınızda Çalıştırın
