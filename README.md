@@ -49,5 +49,5 @@ Cihazlarda çalıştırın ( iOS Simulator & Android Emulator or Real Devices )
   Your Real Device  => Expo App Scan QRCode
 ```
 <p align="center">
-<img src="https://github.com/burakgokcinarr/rn-food-recipe-app/blob/main/demo.gif" alt="img" width="450" height="700">
+<img src="https://github.com/burakgokcinarr/rn-food-recipe-app/blob/main/demo2-min.gif" alt="img" width="500" height="850">
 </p>
